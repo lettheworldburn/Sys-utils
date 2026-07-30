@@ -1,7 +1,7 @@
 # sys-utils
 
 A small collection of standalone Python utility scripts for everyday
-system tasks. Each script works independently — no shared code, just
+system tasks. Each script works independently no shared code, just
 copy the ones you need.
 
 ## Scripts included
